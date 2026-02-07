@@ -17,3 +17,8 @@ iot/
 
 # Database (DO NOT COMMIT)
 data.db
+
+# SQLite temp files
+data.db-journal
+data.db-wal
+data.db-shm
