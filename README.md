@@ -38,7 +38,7 @@ Tok dát: **Senzor → Python logger → SQLite → Flask web UI**
 ---
 
 ## Inštalácia a spustenie (stručne)
-### 1) Projekt
+### Projekt
 ```bash
 cd ~
 git clone <URL_GITHUB_REPO>
