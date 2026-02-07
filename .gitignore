@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+iot/
+.venv/
+
+# OS / editor
+.DS_Store
+*.swp
+
+# Logs
+*.log
+
+# Database (DO NOT COMMIT)
+data.db
